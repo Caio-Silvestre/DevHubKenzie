@@ -5,7 +5,7 @@ Projeto feito para Kenzie Academy, prejeto com sistema de cadastros de usuários
 React, TypeScript, Axios, Yup, Styled-Components, HookForm, Yarn.
 
 # Vercel -- Prévia do Projeto
-    https://devhub-one.vercel.app/
+    https://devhub-caio-silvestre.vercel.app
 
 # Gui de inicialização para rodar projeto no terminal.
 
