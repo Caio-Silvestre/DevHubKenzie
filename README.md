@@ -1,4 +1,4 @@
-# DeviHubProjetoKenzie
+# DevHubProjetoKenzie
 Projeto feito para Kenzie Academy, prejeto com sistema de cadastros de usuários para organização da listagem de suas respectivas tecnologias.
 
 # Principais tecnologias utilizadas: 
