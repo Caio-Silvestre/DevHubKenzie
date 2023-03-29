@@ -1,6 +1,5 @@
 # DevHubProjetoKenzie
-https://devhub-caio-silvestre.vercel.app
-Projeto com sistema de cadastros de usuários para organização da listagem de suas respectivas tecnologias.
+https://devhub-caio-silvestre.vercel.app => Projeto com sistema de cadastros de usuários para organização da listagem de suas respectivas tecnologias.
 
 # Principais tecnologias utilizadas: 
 React, TypeScript, Axios, Yup, Styled-Components, HookForm, Yarn.
