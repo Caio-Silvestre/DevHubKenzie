@@ -1,11 +1,9 @@
 # DevHubProjetoKenzie
+https://devhub-caio-silvestre.vercel.app
 Projeto feito para Kenzie Academy, prejeto com sistema de cadastros de usuários para organização da listagem de suas respectivas tecnologias.
 
 # Principais tecnologias utilizadas: 
 React, TypeScript, Axios, Yup, Styled-Components, HookForm, Yarn.
-
-# Vercel -- Prévia do Projeto
-    https://devhub-caio-silvestre.vercel.app
 
 # Gui de inicialização para rodar projeto no terminal.
 
