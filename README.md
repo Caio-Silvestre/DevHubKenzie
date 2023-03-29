@@ -1,4 +1,4 @@
-# DevHubProjetoKenzie
+# Dev Hub
 https://devhub-caio-silvestre.vercel.app => Projeto com sistema de cadastros de usuários para organização da listagem de suas respectivas tecnologias.
 
 # Principais tecnologias utilizadas: 
